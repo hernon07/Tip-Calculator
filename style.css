@@ -168,9 +168,7 @@ button:hover {
   color: hsl(183, 100%, 15%);
 }
 
-main input:focus {
-  appearance: none;
-  outline: auto;
+main input[type="number"]:focus {
   border: 1px solid hsl(172, 82%, 55%);
 }
 
