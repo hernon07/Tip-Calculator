@@ -4,7 +4,6 @@
   padding: 0;
 }
 
-html,
 body {
   font-family: "Space Mono", monospace;
   background-color: hsl(185, 41%, 84%);
@@ -177,7 +176,7 @@ main input:focus {
 
 @media (max-width: 800px) {
   body {
-    margin-top: 100px;
+    margin-top: 200px;
   }
   main {
     width: 300px;
